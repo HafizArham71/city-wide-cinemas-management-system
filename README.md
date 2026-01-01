@@ -67,3 +67,31 @@ This system manages multiple cities, cinemas, screens, and seats, supporting boo
 Build the project:
 ```bash
 build
+
+Run the project:
+```bash
+run
+
+Classes Included
+
+Seat
+
+Screen
+
+Cinema
+
+CityCinema
+
+SeatDemo
+
+ScreenDemo / CinemaDemo
+
+Notes
+
+No Java Collections are used anywhere in the project.
+
+All data is preloaded using arrays at startup.
+
+The system never starts empty.
+
+Designed to be readable, verifiable, and behavior-driven.
